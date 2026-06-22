@@ -29,7 +29,7 @@
  * - endQuiz() - Generate results screen HTML
  *
  */
-import playSound from "./sound.js";
+import playSound from "../js/sound.js";
 
 export default class Quiz {
   // TODO: Create constructor
