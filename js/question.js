@@ -52,7 +52,7 @@
  *   [array[i], array[j]] = [array[j], array[i]];
  * }
  */
-import playSound from "../js/sound.js";
+import playSound from "./sound.js";
 
 export default class Question {
   // TODO: Create constructor(quiz, container, onQuizEnd)
