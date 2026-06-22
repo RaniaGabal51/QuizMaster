@@ -113,7 +113,7 @@
 // 2. questionsNumber keydown -> if Enter, call startQuiz()
 
 import Quiz from "./quiz.js";
-import Question from "./Question.js";
+import Question from "./question.js";
 
 const quizOptions = document.getElementById("quizOptions");
 const playerName = document.getElementById("playerName");
